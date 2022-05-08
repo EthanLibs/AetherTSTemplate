@@ -33,7 +33,7 @@
   "dependencies": {
     "@types/node": "^17.0.21",
     "chalk": "^5.0.1",
-    "got": "^12.0.2"
+    "got": "^12.0.4"
   },
   "prettier": {
 		"printWidth": 200,
