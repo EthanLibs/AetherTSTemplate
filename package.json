@@ -31,9 +31,9 @@
     "validator": "^13.7.0"
   },
   "dependencies": {
-    "@types/node": "^17.0.21",
+    "@types/node": "^17.0.38",
     "chalk": "^5.0.1",
-    "got": "^12.0.4"
+    "got": "^12.1.0"
   },
   "prettier": {
 		"printWidth": 200,
