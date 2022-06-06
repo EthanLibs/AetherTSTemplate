@@ -93,9 +93,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/validator@^13.7.1":
-  version "13.7.2"
-  resolved "https://registry.yarnpkg.com/@types/validator/-/validator-13.7.2.tgz#a2114225d9be743fb154b06c29b8257aaca42922"
+"@types/validator@^13.7.3":
+  version "13.7.3"
+  resolved "https://registry.yarnpkg.com/@types/validator/-/validator-13.7.3.tgz#3193c0a3c03a7d1189016c62b4fba4b149ef5e33"
 
 "@typescript-eslint/eslint-plugin@^5.27.0":
   version "5.27.0"
