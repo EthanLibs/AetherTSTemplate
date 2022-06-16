@@ -31,7 +31,7 @@
     "validator": "^13.7.0"
   },
   "dependencies": {
-    "@types/node": "^17.0.39",
+    "@types/node": "^18.0.0",
     "chalk": "^5.0.1",
     "got": "^12.1.0"
   },
