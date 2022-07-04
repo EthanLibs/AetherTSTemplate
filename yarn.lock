@@ -83,9 +83,9 @@
   dependencies:
     "@types/node" "*"
 
-"@types/node@*", "@types/node@^17.0.39":
-  version "17.0.39"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.39.tgz#3652d82e2a16b4ea679d5ea3143b816c91b7e113"
+"@types/node@*", "@types/node@^18.0.1":
+  version "18.0.1"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.0.1.tgz#e91bd73239b338557a84d1f67f7b9e0f25643870"
 
 "@types/responselike@*", "@types/responselike@^1.0.0":
   version "1.0.0"
